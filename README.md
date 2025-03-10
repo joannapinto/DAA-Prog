@@ -19,6 +19,7 @@ c) Selection Sort: An algorithm that repeatedly selects the smallest (or largest
 d) Insertion Sort: Builds the sorted list one element at a time by comparing and inserting each new element into its correct position.
 
 e) Merge Sort: A divide-and-conquer algorithm that divides the list into halves, recursively sorts them, and merges the sorted halves to produce the final sorted list.
+
 Each sorting algorithm will measure the time taken to sort lists of varying sizes (n) and plot a graph of the time taken versus n.
 
 Part B
