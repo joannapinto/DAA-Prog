@@ -1,6 +1,8 @@
 Algorithm Implementation and Analysis
 This repository contains the implementation of various algorithms and techniques as per the given tasks in Part A and Part B. The focus is on string matching, searching, graph algorithms, and sorting techniques, with additional analysis on their efficiency.
+
 Contents
+
 Part A
 1.	Brute Force String Matching: Searches for a five-character pattern in a twenty-character string.
 2.	Binary Search: Searches for a number in a list of fifty randomly generated numbers and displays the position if the number is found.
@@ -20,6 +22,7 @@ e) Merge Sort: A divide-and-conquer algorithm that divides the list into halves,
 Each sorting algorithm will measure the time taken to sort lists of varying sizes (n) and plot a graph of the time taken versus n.
 
 Part B
+
 1.	Topological Sorting: Performs a topological sort on a directed graph.
 2.	Horspool's Algorithm for String Matching: Searches for a five-character pattern in a twenty-character string using Horspool’s algorithm. Displays the shift table and the result.
 3.	Heap Sort: Sorts a set of numbers using the bottom-up approach.
