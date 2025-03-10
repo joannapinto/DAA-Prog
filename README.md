@@ -6,7 +6,7 @@ Part A
 2.	Binary Search: Searches for a number in a list of fifty randomly generated numbers and displays the position if the number is found.
 3.	Floyd's Algorithm: Finds the shortest paths in a directed graph.
 4.	Warshall's Algorithm: Computes the transitive closure of a directed graph.
-5.	Sorting Algorithms: Implements one of the following sorting algorithms.
+5.	Sorting Algorithms: Implements one of the following sorting algorithms:
    
 a) Quick Sort: A divide-and-conquer algorithm that selects a pivot element and partitions the list into two halves based on the pivot, recursively sorting them.
 b) Bubble Sort: A simple comparison-based sorting algorithm where adjacent elements are swapped if they are in the wrong order, repeated until the list is sorted.
