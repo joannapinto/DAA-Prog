@@ -9,9 +9,13 @@ Part A
 5.	Sorting Algorithms: Implements one of the following sorting algorithms:
    
 a) Quick Sort: A divide-and-conquer algorithm that selects a pivot element and partitions the list into two halves based on the pivot, recursively sorting them.
+
 b) Bubble Sort: A simple comparison-based sorting algorithm where adjacent elements are swapped if they are in the wrong order, repeated until the list is sorted.
+
 c) Selection Sort: An algorithm that repeatedly selects the smallest (or largest) element from the unsorted portion and moves it to the beginning of the list.
+
 d) Insertion Sort: Builds the sorted list one element at a time by comparing and inserting each new element into its correct position.
+
 e) Merge Sort: A divide-and-conquer algorithm that divides the list into halves, recursively sorts them, and merges the sorted halves to produce the final sorted list.
 Each sorting algorithm will measure the time taken to sort lists of varying sizes (n) and plot a graph of the time taken versus n.
 
